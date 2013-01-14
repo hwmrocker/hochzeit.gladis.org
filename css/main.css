@@ -1,0 +1,43 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.hero-unit .olaf {
+	background-image: url("/img/olaf.png");
+	margin-right: 70px;
+}
+
+.hero-unit .rachel {
+	background-image: url("/img/rachel.png");
+}
+
+.hero-unit .avatar {
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 60px;
+	height: 100px;
+	float: right;
+	margin-top: -100px;
+}
+
+body {
+	background-image: url("/img/bg.png");
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
