@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: de
 ---
 
 {% for location in site.posts %}
@@ -8,7 +9,7 @@ layout: default
     <p>Beginn: {{ location.time }}</p>
     <p>Anschrift: {{ location.street }} {{ location.city }}</p>
     <p>Homepage: <a href="{{ location.homepage }}">{{ location.homepage }}</a></p>
-    <p><a class="btn" href="{{ location.url }}">View details &raquo;</a></p>
+    <p><a class="btn" href="{{ location.url }}">Mehr Infos &raquo;</a></p>
 </div>
     
 {% endfor %}
