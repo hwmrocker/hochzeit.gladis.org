@@ -5,11 +5,10 @@ lang: de
 
 {% for location in site.posts %}
 <div class="span4">
-    <h2>{{ location.title_short }}</h2>
+    <h2><span>[{{ location.type }}]</span> {{ location.title_short }}</h2>
     <p>Beginn: {{ location.time }}</p>
     <p>Anschrift: {{ location.street }} {{ location.city }}</p>
     <p>Homepage: <a href="{{ location.homepage }}">{{ location.homepage }}</a></p>
     <p><a class="btn" href="{{ location.url }}">Mehr Infos &raquo;</a></p>
 </div>
-    
 {% endfor %}
