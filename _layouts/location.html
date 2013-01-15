@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="span12">
+    <h2>{{ page.title }}</h2>
+
+    <h3>Beginn</h3>
+    <p>{{ page.date | date_to_string }} {{ page.time }}</p>
+
+    <h3>Anfahrt</h3>
+    <p>{{ page.street }} {{ page.city }}</p>
+    <p><a href="https://maps.google.com/maps?saddr=&daddr={{ page.street | cgi_escape }}+{{page.city | cgi_escape }}" target="_blank">Anfahrt</a> auf Google Maps</p>
+
+    <h3>Allgemein</h3>
+    {{ content }}
+</div>
+
