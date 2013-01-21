@@ -1,13 +1,13 @@
 ---
 layout: default
 lang: de
-p1: Willkommen bei unserem Abenteuer
+p1: Willkommen bei unserem Abenteuer am 18. Mai
 ---
 
 {% for location in site.posts %}
 <div class="span4">
     <h2><span>[{{ location.type }}]</span> {{ location.title_short }}</h2>
-    <p>Beginn: {{ location.time }}</p>
+    <p>Beginn: 18. Mai {{ location.time }}</p>
     <p>Anschrift: {{ location.street }} {{ location.city }}</p>
     <p>Homepage: <a href="{{ location.homepage }}">{{ location.homepage }}</a></p>
     <p><a class="btn" href="{{ location.url }}">Mehr Infos &raquo;</a></p>
