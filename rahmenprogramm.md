@@ -14,8 +14,8 @@ Kontakt\n
 Beiträge
 --------
 
-Wenn ihr etwas zu dem Rahmenprogramm beisteuern möchtet, dürft ihr das gerne machen. Im Nymphenburger Saal wird es eine Bühne geben, es wird ein Mikrophon vorhanden sein, es gibt WLAN und ein Beamer um Bilder oder Videos zu zeigen ist natürlich auch da.
+Wenn ihr etwas zum Rahmenprogramm beisteuern möchtet, dürft ihr das gerne machen. Im Nymphenburger Saal wird es eine Bühne geben, es wird ein Mikrophon vorhanden sein, es gibt WLAN und einen Beamer um Bilder oder Videos zu zeigen ist natürlich auch da.
 
-Glücklicherweise hat sich der Thilo bereit erklärt sich um die Planung und und Ablauf des Rahmenprogramms zu kümmern. So könnt ihr auch mit ihm die Sachen druchsprechen ohne uns die Überraschung zu nehmen
+Glücklicherweise hat sich der Thilo bereit erklärt, sich um die Planung und und Ablauf des Rahmenprogramms zu kümmern. So könnt ihr auch mit ihm die Sachen durchsprechen ohne uns die Überraschung zu nehmen.
 
 

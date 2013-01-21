@@ -42,7 +42,9 @@
                         <ul class="nav">
                             <li class="active"><a href="/">Home</a></li>
                             {% for location in site.posts %}
+                                {% if location.type != "Info" %}
                                 <li><a href="{{ location.url }}">{{ location.type }}</a>
+                                {% endif %}
                             {% endfor %}
                             <li><a href="/geschenke.html">Geschenke</a></li>
                             <li><a href="/rahmenprogramm.html">Programm</a></li>
@@ -77,7 +79,7 @@
             <!-- Main hero unit for a primary marketing message or call to action -->
             <div class="hero-unit">
                 <h1>{% if page.h1 %}{{ page.h1 }}{% else %}Halli Hallo{% endif %}</h1>
-                <p>{% if page.p1 %}{{ page.p1 }}{% else %}Willkommen auf der Infoseit zu unserer Hochzeit.{% endif %}</p>
+                <p>{% if page.p1 %}{{ page.p1 }}{% else %}Willkommen auf der Infoseite zu unserer Hochzeit.{% endif %}</p>
 <!--                 <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
  -->                <div class="avatar rachel hidden-phone"></div>
                     <div class="avatar herz hidden-phone"></div>

@@ -9,4 +9,4 @@ homepage: http://www.ausbildungshotel-st-theresia.de/
 type: Feier
 ---
 
-Wir feiern anschließend im Nymphenburgersaal des Ausbildungshotels St. Theresia.
+Wir feiern nach der Kirche im Nymphenburgersaal des Ausbildungshotels St. Theresia. Dort gibt es Kaffee und Kuchen (wer welchen mitbringen will, darf sich gerne bei mir melden). Anschließend essen wir gemeinsam zu Abend und feiern.
