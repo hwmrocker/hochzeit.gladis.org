@@ -9,7 +9,6 @@ Kontakt\n
     Email: thilogladis [at] gmail.com\n
     Handy: 0152-335 181 74\n
 "
-comment: true
 ---
 
 Beiträge
