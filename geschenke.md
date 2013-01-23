@@ -2,6 +2,7 @@
 layout: 1col
 lang: de
 h1: Geschenke
+title: Geschenke
 ---
 
 	Wer sich fragt:

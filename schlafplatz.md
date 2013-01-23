@@ -2,6 +2,7 @@
 layout: 2col
 lang: de
 h1: Schlafplatz
+title: Schlafplatz
 side: "\n
 Kontakt\n
 -------\n

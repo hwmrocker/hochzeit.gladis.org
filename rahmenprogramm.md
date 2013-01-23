@@ -2,6 +2,7 @@
 layout: 2col
 lang: de
 h1: Rahmenprogramm
+title: Rahmenprogramm
 side: "\n
 Kontakt\n
 -------\n
