@@ -10,6 +10,7 @@ p1: Willkommen bei unserem Abenteuer am 18. Mai
     <h2><span>[{{ page.type }}]</span> {{ page.title_short }}</h2>
     <p>Beginn: 18. Mai {{ page.time }}</p>
     <p>Anschrift: {{ page.street }} {{ page.city }}</p>
+    <p><a href="https://maps.google.com/maps?saddr=&daddr={{ page.street | cgi_escape }}+{{page.city | cgi_escape }}" target="_blank">Anfahrt</a> auf Google Maps</p>
     <p>Homepage: <a href="{{ page.homepage }}">{{ page.homepage }}</a></p>
     <p><a class="btn" href="{{ page.url }}">Mehr Infos &raquo;</a></p>
     {% else %}
